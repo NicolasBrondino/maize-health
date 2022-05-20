@@ -1,0 +1,5 @@
+﻿  Utilities.cpp
+  Source.cpp
+c:\users\user\desktop\agri- dryness &paths detect 1.0\opencvtest\source.cpp(345): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  opencvTest.vcxproj -> C:\Users\User\Desktop\agri- dryness &paths detect 1.0\x64\Debug\opencvTest.exe
